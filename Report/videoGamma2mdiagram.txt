@@ -1,0 +1,2 @@
+In the video, the diagram showing how the size of gamma/2m affects the decay of the amplitude was created using this desmos graph
+https://www.desmos.com/calculator/zi7lcovynb
